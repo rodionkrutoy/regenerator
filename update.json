@@ -1,9 +1,9 @@
 {
-  "version": 3,
+  "version": 4,
   "name": "Регенератор номеров v3",
   "notes": "+фикс ошибок",
-  "apk": "https:\/\/github.com\/rodionkrutoy\/regenerator\/releases\/download\/v3\/regenerator-3.apk",
+  "apk": "https:\/\/github.com\/rodionkrutoy\/regenerator\/releases\/download\/v4\/regenerator-4.apk",
   "maintEnd": 9000000000000000,
   "mnotes": "Обновляем игру, скоро вернёмся",
-  "id": 1794737809333
+  "id": 1794737959248
 }
