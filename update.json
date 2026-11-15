@@ -3,7 +3,7 @@
   "name": "Регенератор номеров",
   "notes": "+фикс ошибок\n+новые страны\n+номера новые\n+новый дизайн",
   "apk": "https:\/\/github.com\/rodionkrutoy\/regenerator\/releases\/download\/v9\/regenerator-9.apk",
-  "maintEnd": 9000000000000000,
-  "mnotes": "Обновляем игру, скоро вернёмся",
-  "id": 1794739905673
+  "maintEnd": 0,
+  "mnotes": "",
+  "id": 1794742907646
 }
