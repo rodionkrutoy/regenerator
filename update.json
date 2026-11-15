@@ -1,9 +1,9 @@
 {
-  "version": 8,
-  "name": "Регенератор номеров v3",
+  "version": 9,
+  "name": "Регенератор номеров",
   "notes": "+фикс ошибок\n+новые страны\n+номера новые\n+новый дизайн",
-  "apk": "https:\/\/github.com\/rodionkrutoy\/regenerator\/releases\/download\/v8\/regenerator-8.apk",
+  "apk": "https:\/\/github.com\/rodionkrutoy\/regenerator\/releases\/download\/v9\/regenerator-9.apk",
   "maintEnd": 0,
   "mnotes": "",
-  "id": 1794738751827
+  "id": 1794738798115
 }
