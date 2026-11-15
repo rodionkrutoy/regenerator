@@ -1,9 +1,13 @@
 {
-  "version": 9,
-  "name": "Регенератор номеров",
-  "notes": "+фикс ошибок\n+новые страны\n+номера новые\n+новый дизайн",
-  "apk": "https:\/\/github.com\/rodionkrutoy\/regenerator\/releases\/download\/v9\/regenerator-9.apk",
-  "maintEnd": 9000000000000000,
-  "mnotes": "⚠️ ошибка 2913 ПОЭТОМУ НАША ИГРА ОТ @nequarScript БУДЕТ ЗАБЛОКИРОВАНА НА ВРЕМЯ!",
-  "id": 1794751193000
+  "schema": 2,
+  "version": 0,
+  "name": "",
+  "notes": "",
+  "apk": "",
+  "apkTime": 0,
+  "maint": false,
+  "maintEnd": 0,
+  "mnotes": "",
+  "id": 1794753907505,
+  "history": []
 }
