@@ -6,9 +6,9 @@
   "apk": "https:\/\/github.com\/rodionkrutoy\/regenerator\/releases\/download\/v5\/regenerator-5.apk",
   "apkTime": 1794859060431,
   "maint": true,
-  "maintEnd": 1794859420431,
-  "mnotes": "Обновляем игру до Регенератор v5 — скоро вернёмся",
-  "id": 1794859060431,
+  "maintEnd": 1795340827159,
+  "mnotes": "⚠️ Обновление игры\n[+] fiks ошибок",
+  "id": 1795339927159,
   "history": [
     {
       "version": 5,
